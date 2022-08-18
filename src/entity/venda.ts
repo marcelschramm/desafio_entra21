@@ -8,7 +8,7 @@ export class Venda {
     idVenda: number
 
     @Column()
-    data: number
+    data: string
 
     @Column()
     status: string
